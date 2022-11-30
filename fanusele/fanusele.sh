@@ -33,11 +33,26 @@
 #    translate 0 2cm \
 #    write fanusele/fanusele.out.svg
 
+#vpype \
+#    read -m -l1 -c fanusele/fanu.svg \
+#    scaleto -l1 -o 0 0 1.5cm 1.5cm \
+#    translate -l1 0.15cm 1.2cm \
+#    read -m -l2 -c fanusele/and.svg \
+#    scaleto -l2 -o 0 0 0.5cm 0.5cm \
+#    translate -l2 0.75cm 1.85cm \
+#    read -m -l3 -c fanusele/sele.svg \
+#    scaleto -l3 -o 0 0 1.5cm 1.5cm \
+#    translate -l3 0.15cm 2.5cm \
+#    lmove 1,2,3 1 \
+#    rotate -l1 -o 0 0 -- -90 \
+#    layout -l -v center -h left -m 3mm 7.15cmx2.7cm \
+#    translate -l1 1.1cm 0 \
+#    write fanusele/fanusele.out.svg
+
 NAME=$1
 vpype \
     read -m -l1 -c fanusele/$1.svg \
-    scaleto -l1 -o 0 0 4.5cm 1.5cm \
-    layout -l -v center -h center 9cmx4cm \
+    layout -l -v center -h center -m 1cm 12.6cmx7.5cm \
     write fanusele/$1.out.svg
 
 ./fconv.sh fanusele/$1.out.svg

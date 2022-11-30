@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ev="http://www.w3.org/2001/xml-events" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:xlink="http://www.w3.org/1999/xlink" baseProfile="tiny" height="4.0cm" version="1.2" viewBox="0 0 340.1574803149606 151.1811023622047" width="9.0cm">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ev="http://www.w3.org/2001/xml-events" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:xlink="http://www.w3.org/1999/xlink" baseProfile="tiny" height="7.5cm" version="1.2" viewBox="0 0 476.22047244094483 283.4645669291338" width="12.6cm">
   <metadata>
     <rdf:RDF>
       <cc:Work>
         <dc:format>image/svg+xml</dc:format>
-        <dc:source>vpype read -m -l1 -c fanusele/fanu-posto-tech.svg scaleto -l1 -o 0 0 4.5cm 1.5cm layout -l -v center -h center 9cmx4cm write fanusele/fanu-posto-tech.out.svg
+        <dc:source>vpype read -m -l1 -c fanusele/fanu-posto-tech.svg layout -l -v center -h center -m 1cm 12.6cmx7.5cm write fanusele/fanu-posto-tech.out.svg
 </dc:source>
-        <dc:date>2022-11-20T20:17:23.487099</dc:date>
+        <dc:date>2022-11-30T21:51:51.840608</dc:date>
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <defs/>
   <g fill="none" id="layer1" inkscape:groupmode="layer" inkscape:label="1" stroke="#010100" stroke-width="1.0" style="display:inline">
-    <polyline points="134.3182,50.4069 117.2632,51.4286 105.6312,53.3935 94.9423,54.4152 86.7685,56.1443 85.2752,48.9922 87.7902,60.86 89.9908,73.1993 89.9908,80.1156 85.0394,82.3949 94.4707,78.7009 112.5475,75.7143 129.1309,72.9635 94.2349,78.7009 89.9908,80.6658 89.755,101.6938"/>
-    <polyline points="174.48,80.6658 170.0001,90.5687 162.7694,97.2414 157.5822,100.2044 152.6307,101.9414 145.7144,101.1947 142.0205,98.7268 140.9987,91.0403 144.7713,83.338 149.6441,75.9501 157.5822,70.5271 163.5554,67.7763 168.0353,67.7763 173.4583,68.798 174.48,72.492 175.4232,102.1889"/>
-    <polyline points="181.3492,67.0689 181.5929,100.9511 181.3492,76.9719 190.5133,70.9987 199.3945,66.7546 205.1319,66.283 209.2975,66.7546 212.0483,69.7411 214.0131,78.3866 213.7773,101.6938"/>
-    <polyline points="222.8943,66.283 220.9295,77.6792 220.2221,90.8045 223.2087,98.4753 229.3391,101.6938 239.7922,100.9511 245.6868,97.2414 248.9091,95.7481 252.1315,91.2761 254.4108,86.5604 252.6031,65.3398 255.1181,101.4462"/>
+    <polyline points="153.8743,82.4107 113.7002,84.8175 86.3004,89.4458 61.1222,91.8526 41.8682,95.9255 38.3507,79.0783 44.275,107.0335 49.4587,136.0996 49.4587,152.3914 37.7953,157.7603 60.0114,149.059 102.5922,142.0239 141.6554,135.5442 59.456,149.059 49.4587,153.6873 48.9033,203.2199"/>
+    <polyline points="248.4777,153.6873 237.9251,177.0142 220.8928,192.7321 208.6739,199.7116 197.0105,203.8031 180.7187,202.0443 172.0174,196.2311 169.6107,178.125 178.4971,159.9819 189.9754,142.5793 208.6739,129.805 222.7441,123.3253 233.2968,123.3253 246.071,125.7321 248.4777,134.4334 250.6993,204.3862"/>
+    <polyline points="264.6584,121.6591 265.2324,201.4704 264.6584,144.986 286.2451,130.9158 307.1652,120.9186 320.68,119.8078 330.4921,120.9186 336.9718,127.9537 341.6001,148.3184 341.0447,203.2199"/>
+    <polyline points="362.5203,119.8078 357.8919,146.6522 356.2257,177.5696 363.2608,195.6387 377.7013,203.2199 402.3241,201.4704 416.2091,192.7321 423.7996,189.2145 431.3901,178.6804 436.759,167.5724 432.5009,117.5862 438.4252,202.6367"/>
   </g>
 </svg>
