@@ -1,0 +1,8 @@
+155595
+
+
+13cm 7cm 3cm 3cm
+
+
+vpype read salesin.svg layout -l --fit-to-margins 0cm 1cmx0.4cm write salesin_small.svg
+vpype read --single-layer -l 1 map.svg crop 13cm 7cm 3cm 3cm read --single-layer -l 2 salesin_small.svg translate -l 2 13.72cm 8.2cm write salesin_placed.svg

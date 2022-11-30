@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ev="http://www.w3.org/2001/xml-events" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:xlink="http://www.w3.org/1999/xlink" baseProfile="tiny" height="4.0cm" version="1.2" viewBox="0 0 340.1574803149606 151.1811023622047" width="9.0cm">
+  <metadata>
+    <rdf:RDF>
+      <cc:Work>
+        <dc:format>image/svg+xml</dc:format>
+        <dc:source>vpype read -m -l1 -c fanusele/manu.svg scaleto -l1 -o 0 0 4.5cm 1.5cm layout -l -v center -h center 9cmx4cm write fanusele/manu.out.svg
+</dc:source>
+        <dc:date>2022-11-20T19:39:21.892243</dc:date>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs/>
+  <g fill="none" id="layer1" inkscape:groupmode="layer" inkscape:label="1" stroke="#010100" stroke-width="1.0" style="display:inline">
+    <polyline points="85.0394,98.5159 87.416,74.9277 89.2728,58.0684 90.9067,51.4583 92.3178,51.0127 95.5857,53.3893 101.2303,64.8269 107.0976,76.0417 112.2223,86.5881 115.4901,81.9091 124.1055,65.7925 131.8296,50.7899 133.4635,51.9782 135.1717,58.7368 136.8057,70.1744 138.6624,82.3547 140.5192,99.6894"/>
+    <polyline points="178.9169,80.0523 174.6835,89.4104 167.8506,95.7159 162.9488,98.5159 158.2698,100.1573 151.734,99.4517 148.2433,97.1196 147.2778,89.856 150.8428,82.5775 155.4475,75.5961 162.9488,70.4715 168.5933,67.872 172.8267,67.872 177.9514,68.8375 178.9169,72.3282 179.8081,100.3912"/>
+    <polyline points="185.4081,67.2036 185.6383,99.2215 185.4081,76.5616 194.068,70.9171 202.4605,66.9065 207.8823,66.4609 211.8186,66.9065 214.418,69.7288 216.2748,77.8985 216.052,99.9233"/>
+    <polyline points="224.6673,66.4609 222.8106,77.2301 222.1421,89.6332 224.9644,96.882 230.7575,99.9233 240.6354,99.2215 246.2057,95.7159 249.2508,94.3048 252.2958,90.0788 254.4497,85.6226 252.7415,65.5696 255.1181,99.6894"/>
+  </g>
+</svg>

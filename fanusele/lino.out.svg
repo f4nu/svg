@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ev="http://www.w3.org/2001/xml-events" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:xlink="http://www.w3.org/1999/xlink" baseProfile="tiny" height="4.0cm" version="1.2" viewBox="0 0 340.1574803149606 151.1811023622047" width="9.0cm">
+  <metadata>
+    <rdf:RDF>
+      <cc:Work>
+        <dc:format>image/svg+xml</dc:format>
+        <dc:source>vpype read -m -l1 -c fanusele/lino.svg scaleto -l1 -o 0 0 4.5cm 1.5cm layout -l -v center -h center 9cmx4cm write fanusele/lino.out.svg
+</dc:source>
+        <dc:date>2022-11-20T19:53:58.208743</dc:date>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs/>
+  <g fill="none" id="layer1" inkscape:groupmode="layer" inkscape:label="1" stroke="#010100" stroke-width="1.0" style="display:inline">
+    <polyline points="93.786,47.2441 93.786,47.7558 94.0418,71.1256 94.0418,85.1133 93.2742,97.2161 93.0183,102.0521 110.1618,102.0521 134.6403,102.5894"/>
+    <line x1="149.1398" x2="150.675" y1="50.2293" y2="50.2293"/>
+    <polyline points="151.2721,66.3493 152.0397,100.713 153.6602,102.325"/>
+    <polyline points="163.0764,66.0934 163.3408,102.8623 163.0764,76.8401 173.0213,70.3579 182.6592,65.7522 188.8854,65.2405 193.4058,65.7522 196.391,68.9933 198.5233,78.3753 198.2674,103.6683"/>
+    <polyline points="226.1576,64.4729 215.4109,69.2492 209.7817,77.3518 206.0289,85.3692 207.9053,96.1414 211.4022,102.0521 222.7459,103.937 232.1279,101.5233 241.7658,95.3482 247.1391,85.3692 245.2627,73.002 240.9982,68.2257 236.1366,65.2405 226.1576,64.4729"/>
+  </g>
+</svg>

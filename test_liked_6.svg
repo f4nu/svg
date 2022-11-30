@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ev="http://www.w3.org/2001/xml-events" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:xlink="http://www.w3.org/1999/xlink" baseProfile="tiny" height="21.0cm" version="1.2" viewBox="0 0 559.3700787401575 793.7007874015749" width="14.8cm">
+  <metadata>
+    <rdf:RDF>
+      <cc:Work>
+        <dc:format>image/svg+xml</dc:format>
+        <dc:source/>
+        <dc:date>2021-02-11T19:01:05.691754</dc:date>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs/>
+  <g fill="none" id="layer1" inkscape:groupmode="layer" inkscape:label="1" stroke="#00f" style="display:inline">
+    <polygon points="206.2657,324.0458 244.061,324.0458 244.061,361.8411 206.2657,361.8411"/>
+    <polygon points="259.1791,376.9592 296.9614,377.9493 295.9713,415.7316 258.189,414.7415"/>
+    <polygon points="296.9744,361.8411 259.1791,361.8411 259.1791,324.0458 296.9744,324.0458"/>
+    <polygon points="312.0925,324.0458 349.8878,324.0458 349.8878,361.8411 312.0925,361.8411"/>
+    <polygon points="349.4571,371.2696 355.1467,408.6341 317.7821,414.3238 312.0925,376.9592"/>
+    <polygon points="350.9123,466.6147 313.1314,467.6536 312.0925,429.8726 349.8735,428.8337"/>
+    <polygon points="259.1791,429.8726 296.5336,424.1172 302.289,461.4717 264.9345,467.2271"/>
+    <polygon points="206.2657,429.8726 244.0058,431.9149 241.9634,469.655 204.2234,467.6126"/>
+    <polygon points="207.0047,414.7472 206.2657,376.9592 244.0538,376.2203 244.7927,414.0083"/>
+  </g>
+</svg>

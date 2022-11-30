@@ -1,0 +1,28 @@
+<style>
+body        {background-color:red; margin:0; padding:0; font-family:monospace;}
+#headline   {position:absolute; color:black; text-align:center;}
+#return     {background-color:cyan; color:black; cursor:pointer; border:solid 2px; }
+</style>
+<script type='text/javascript'>
+    var size;
+    function layout(){
+      var sW =  window.innerWidth;
+      var sH =  window.innerHeight;
+      if (sW < sH) {size = sW*.9;}else{size = sH*.6;}
+      var left = sW/2 - size/2;
+      hea = document.getElementById('headline');
+      hea.style.width       = sW ;
+      hea.style.left        = 0;
+      hea.style.top         = sH*.45;
+      hea.style.fontSize    = size * .08 +'px';
+      rtn = document.getElementById('return');
+      rtn.style.width = size * .45;
+      rtn.style.height = size * .2;
+      rtn.style.center = left;
+      rtn.style.top = size * 1.5 + yOffset;
+    }
+</script>
+<body onload='layout()' onresize='layout()'>
+<div id='headline'>DRAW SOMETHING <br> FRIST!</div>
+</body>
+<div style="text-align:center"><input type='button' value='RETURN &#13;&#10;TO HOME' id='return' onclick='empty()'></div>

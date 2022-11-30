@@ -1,0 +1,1 @@
+grep '"lat":' covid.json | grep -v null | cut -d':' -f2 | cut -d',' -f1 | sort -nr | tail -n1

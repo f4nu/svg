@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ev="http://www.w3.org/2001/xml-events" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:xlink="http://www.w3.org/1999/xlink" baseProfile="tiny" height="5.3cm" version="1.2" viewBox="0 0 200.31496062992125 200.31496062992125" width="5.3cm">
+  <metadata>
+    <rdf:RDF>
+      <cc:Work>
+        <dc:format>image/svg+xml</dc:format>
+        <dc:source>vpype read -l1 fanusele/enea.svg scaleto -l1 -o 0 0 3cm 3cm layout -h center -v center 5.3cmx5.3cm write fanusele/enea.out.svg
+</dc:source>
+        <dc:date>2022-11-20T19:12:37.366209</dc:date>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs/>
+  <g fill="none" id="layer1" inkscape:groupmode="layer" inkscape:label="1" stroke="#010100" stroke-width="1.0" style="display:inline">
+    <polyline points="66.1968,81.8603 43.6297,82.5758 43.4646,101.6202 66.6921,99.0333 43.6297,101.6202 44.3452,117.4117 71.0404,115.6779"/>
+    <polyline points="75.741,93.8593 75.9116,117.5878 75.741,100.7946 82.1589,96.6114 88.3786,93.6392 92.3966,93.3089 95.3138,93.6392 97.2403,95.7308 98.6163,101.7853 98.4512,118.1079"/>
+    <polyline points="105.0562,102.3358 111.9914,102.1706 119.9725,102.0055 125.1464,101.1248 126.0271,99.1984 125.3115,97.327 120.7981,93.3089 115.0738,93.3089 109.8999,95.2354 106.2671,98.5379 103.6251,105.253 102.7775,109.271 102.6068,112.0231 105.5516,115.854 110.3952,118.2813 115.9544,117.9346 121.8439,116.5475 126.0271,114.4669 127.5682,112.5735"/>
+    <polyline points="156.1899,103.3815 153.0525,110.3168 147.9887,114.9898 144.3559,117.0649 140.8883,118.2813 136.0446,117.7584 133.4577,116.0301 132.7421,110.647 135.3841,105.253 138.7967,100.079 144.3559,96.2812 148.5391,94.3547 151.6765,94.3547 155.4744,95.0703 156.1899,97.6572 156.8504,118.4547"/>
+  </g>
+</svg>

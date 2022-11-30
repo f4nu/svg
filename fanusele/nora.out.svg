@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ev="http://www.w3.org/2001/xml-events" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:xlink="http://www.w3.org/1999/xlink" baseProfile="tiny" height="4.0cm" version="1.2" viewBox="0 0 340.1574803149606 151.1811023622047" width="9.0cm">
+  <metadata>
+    <rdf:RDF>
+      <cc:Work>
+        <dc:format>image/svg+xml</dc:format>
+        <dc:source>vpype read -m -l1 -c fanusele/nora.svg scaleto -l1 -o 0 0 4.5cm 1.5cm layout -l -v center -h center 9cmx4cm write fanusele/nora.out.svg
+</dc:source>
+        <dc:date>2022-11-20T20:08:29.270100</dc:date>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs/>
+  <g fill="none" id="layer1" inkscape:groupmode="layer" inkscape:label="1" stroke="#010100" stroke-width="1.0" style="display:inline">
+    <polyline points="85.0394,100.1319 85.748,83.2343 85.9843,68.6673 85.9843,52.998 87.2441,50.5571 95.6693,59.6909 105.5906,72.6043 118.5039,89.2185 125.4331,98.6516 125.6693,89.4547 125.6693,71.5807 125.4331,49.061"/>
+    <polyline points="154.4094,65.439 144.4882,69.8484 139.2913,77.3287 135.8268,84.7303 137.5591,94.6752 140.7874,100.1319 151.2598,101.872 159.9213,99.6437 168.8189,93.9429 173.7795,84.7303 172.0472,73.313 168.1102,68.9035 163.622,66.1476 154.4094,65.439"/>
+    <polyline points="180.9449,65.439 180.0,101.124 182.4409,81.0295 188.4252,73.313 196.063,68.9035 202.2835,66.3839 205.0394,66.1476 213.2283,66.935 214.1732,67.6437"/>
+    <polyline points="254.1732,80.5571 249.685,90.4783 242.4409,97.1634 237.2441,100.1319 232.2835,101.872 225.3543,101.124 221.6535,98.6516 220.6299,90.9508 224.4094,83.2343 229.2913,75.8327 237.2441,70.3996 243.2283,67.6437 247.7165,67.6437 253.1496,68.6673 254.1732,72.3681 255.1181,102.1201"/>
+  </g>
+</svg>

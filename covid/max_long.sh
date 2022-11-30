@@ -1,0 +1,1 @@
+grep '"long":' covid.json | grep -v null | cut -d':' -f2 | cut -d',' -f1 | sort -n | tail -n1

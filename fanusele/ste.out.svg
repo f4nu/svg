@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ev="http://www.w3.org/2001/xml-events" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:xlink="http://www.w3.org/1999/xlink" baseProfile="tiny" height="4.0cm" version="1.2" viewBox="0 0 340.1574803149606 151.1811023622047" width="9.0cm">
+  <metadata>
+    <rdf:RDF>
+      <cc:Work>
+        <dc:format>image/svg+xml</dc:format>
+        <dc:source>vpype read -m -l1 -c fanusele/ste.svg scaleto -l1 -o 0 0 4.5cm 1.5cm layout -l -v center -h center 9cmx4cm write fanusele/ste.out.svg
+</dc:source>
+        <dc:date>2022-11-20T20:08:27.397291</dc:date>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs/>
+  <g fill="none" id="layer1" inkscape:groupmode="layer" inkscape:label="1" stroke="#010100" stroke-width="1.0" style="display:inline">
+    <polyline points="149.1112,47.7534 138.1606,49.621 126.9553,52.5921 116.7686,55.5632 112.4393,59.0436 110.3171,61.6752 109.5531,64.1369 111.6753,67.872 122.8806,71.6071 133.3219,75.3423 144.0179,79.5867 149.8752,82.8125 153.3557,85.7836 153.101,88.6698 148.6019,94.0178 138.1606,99.3912 125.8517,103.4022 116.7686,103.937 110.3171,103.1348 106.582,101.2673 105.2238,98.5933"/>
+    <polyline points="176.3605,47.2441 177.7187,103.6696 176.9547,72.1165 160.6052,72.1165 191.0462,71.8618"/>
+    <polyline points="200.2142,79.0774 210.9102,78.8227 223.2191,78.568 231.1986,77.2098 232.5568,74.2387 231.4533,71.3525 224.4924,65.1556 215.664,65.1556 207.6844,68.1267 202.0818,73.22 198.0071,83.5765 196.6998,89.7733 196.4367,94.0178 200.9782,99.926 208.4484,103.6696 217.0222,103.1348 226.1053,100.9956 232.5568,97.7868 234.9337,94.8667"/>
+  </g>
+</svg>

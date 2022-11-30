@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ev="http://www.w3.org/2001/xml-events" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:xlink="http://www.w3.org/1999/xlink" baseProfile="tiny" height="5.3cm" version="1.2" viewBox="0 0 200.31496062992125 200.31496062992125" width="5.3cm">
+  <metadata>
+    <rdf:RDF>
+      <cc:Work>
+        <dc:format>image/svg+xml</dc:format>
+        <dc:source>vpype read -l1 fanusele/nathan.svg scaleto -l1 -o 0 0 3cm 3cm layout -h center -v center 5.3cmx5.3cm write fanusele/nathan.out.svg
+</dc:source>
+        <dc:date>2022-11-20T19:04:31.283581</dc:date>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs/>
+  <g fill="none" id="layer1" inkscape:groupmode="layer" inkscape:label="1" stroke="#010100" stroke-width="1.0" style="display:inline">
+    <polyline points="43.4646,111.7747 43.8,103.7758 43.9118,96.8802 43.9118,89.4628 44.5082,88.3073 48.4965,92.631 53.1929,98.7439 59.3058,106.6086 62.5858,111.0739 62.6977,106.7204 62.6977,98.2593 62.5858,87.5991"/>
+    <polyline points="83.3844,102.5085 81.2598,107.205 77.8307,110.3695 75.3706,111.7747 73.0224,112.5984 69.7423,112.2443 67.9905,111.0739 67.5059,107.4286 69.2951,103.7758 71.606,100.2721 75.3706,97.7002 78.2034,96.3957 80.328,96.3957 82.8999,96.8802 83.3844,98.6321 83.8317,112.7158"/>
+    <polyline points="93.5601,87.8228 94.1565,112.5984 93.821,98.7439 86.6421,98.7439 100.0084,98.6321"/>
+    <polyline points="104.0339,87.9346 103.6612,99.5639 104.0339,112.5984 104.9658,102.7321 107.9104,98.9675 111.3022,96.8802 114.3587,96.992 116.446,98.7439 118.5706,102.7321 118.9433,106.6086 119.0551,111.7747"/>
+    <polyline points="138.1018,102.5085 135.9773,107.205 132.5481,110.3695 130.0881,111.7747 127.7398,112.5984 124.4598,112.2443 122.7079,111.0739 122.2234,107.4286 124.0125,103.7758 126.3234,100.2721 130.0881,97.7002 132.9208,96.3957 135.0454,96.3957 137.6173,96.8802 138.1018,98.6321 138.5491,112.7158"/>
+    <polyline points="141.3595,96.0602 141.4751,112.1288 141.3595,100.7567 145.7056,97.9239 149.9175,95.9111 152.6385,95.6875 154.614,95.9111 155.9186,97.3275 156.8504,101.4276 156.7386,112.481"/>
+  </g>
+</svg>

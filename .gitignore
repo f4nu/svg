@@ -1,0 +1,4 @@
+__pycache__
+.DS_Store
+vpype_venv
+node_modules

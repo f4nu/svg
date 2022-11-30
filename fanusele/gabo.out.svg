@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ev="http://www.w3.org/2001/xml-events" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:xlink="http://www.w3.org/1999/xlink" baseProfile="tiny" height="4.0cm" version="1.2" viewBox="0 0 340.1574803149606 151.1811023622047" width="9.0cm">
+  <metadata>
+    <rdf:RDF>
+      <cc:Work>
+        <dc:format>image/svg+xml</dc:format>
+        <dc:source>vpype read -m -l1 -c fanusele/gabo.svg scaleto -l1 -o 0 0 4.5cm 1.5cm layout -l -v center -h center 9cmx4cm write fanusele/gabo.out.svg
+</dc:source>
+        <dc:date>2022-11-20T20:08:25.680215</dc:date>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs/>
+  <g fill="none" id="layer1" inkscape:groupmode="layer" inkscape:label="1" stroke="#010100" stroke-width="1.0" style="display:inline">
+    <polyline points="115.9694,49.2418 109.3467,49.8968 102.2146,53.3173 96.9747,57.9022 92.8265,62.2688 88.4599,70.0559 85.476,78.3524 85.0394,85.9212 86.4221,91.3794 89.8426,95.2948 96.4653,98.0421 103.3791,96.8959 111.6028,92.9951 116.9155,89.1233 120.991,85.1934 121.9371,83.374 122.3737,69.4009 100.1769,73.2581 130.1608,68.2365 122.5921,69.6192 122.5921,101.9393"/>
+    <polyline points="169.4601,78.5707 165.3119,87.7406 158.6164,93.9193 153.8132,96.663 149.2283,98.2714 142.8239,97.58 139.4034,95.2948 138.4573,88.1773 141.9506,81.0452 146.4628,74.2042 153.8132,69.1826 159.3442,66.6354 163.4925,66.6354 168.514,67.5815 169.4601,71.002 170.3335,98.5006"/>
+    <polyline points="179.7216,49.8968 180.1583,95.7533 183.5788,97.1215 189.5465,95.9789 198.498,92.311 209.4872,83.5923 213.8538,76.0236 215.4549,70.0559 214.0721,66.8537 210.6517,65.471 202.6462,66.1987 195.5141,71.002 187.727,76.4602 180.6677,86.5762"/>
+    <polyline points="237.2151,64.5977 228.0452,68.6731 223.242,75.5869 220.0398,82.4279 221.6409,91.6196 224.6247,96.663 234.304,98.2714 242.3094,96.2118 250.5332,90.9428 255.1181,82.4279 253.517,71.8753 249.8782,67.7998 245.7299,65.2526 237.2151,64.5977"/>
+  </g>
+</svg>

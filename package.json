@@ -1,0 +1,14 @@
+{
+  "name": "polyhedra",
+  "version": "0.0.1",
+  "description": "",
+  "main": "sketch.js",
+  "scripts": {
+    "start": "node sketch.js > test.svg && svgo test.svg -o test.min.svg"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "svgo": "^1.3.2"
+  }
+}
