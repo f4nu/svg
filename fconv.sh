@@ -1,6 +1,6 @@
 #!/bin/bash
 
-JUICY_BIN=/home/fanu/git/svg/juicy-gcode/juicy-gcode
+JUICY_BIN=/home/fanu/git/svg/juicy-gcode-bin
 FILENAME=$1
 FILENAME_NOEXT=$(echo "${FILENAME}" | rev | cut -d'.' -f2- | rev)
 FILENAME_GCODE="${FILENAME_NOEXT}.gcode"
